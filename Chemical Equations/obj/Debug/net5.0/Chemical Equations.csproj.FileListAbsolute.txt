@@ -1,0 +1,16 @@
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\bin\Debug\net5.0\Chemical Equations.exe
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\bin\Debug\net5.0\Chemical Equations.deps.json
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\bin\Debug\net5.0\Chemical Equations.runtimeconfig.json
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\bin\Debug\net5.0\Chemical Equations.runtimeconfig.dev.json
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\bin\Debug\net5.0\Chemical Equations.dll
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\bin\Debug\net5.0\ref\Chemical Equations.dll
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\bin\Debug\net5.0\Chemical Equations.pdb
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.csproj.AssemblyReference.cache
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.AssemblyInfoInputs.cache
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.AssemblyInfo.cs
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.csproj.CoreCompileInputs.cache
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.dll
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\ref\Chemical Equations.dll
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.pdb
+C:\Users\enes_\OneDrive\Masaüstü\Chemical Equations\obj\Debug\net5.0\Chemical Equations.genruntimeconfig.cache
