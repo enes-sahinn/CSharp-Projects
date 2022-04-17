@@ -1,0 +1,16 @@
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\bin\Debug\net5.0\Frog-Game.exe
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\bin\Debug\net5.0\Frog-Game.deps.json
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\bin\Debug\net5.0\Frog-Game.runtimeconfig.json
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\bin\Debug\net5.0\Frog-Game.runtimeconfig.dev.json
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\bin\Debug\net5.0\Frog-Game.dll
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\bin\Debug\net5.0\ref\Frog-Game.dll
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\bin\Debug\net5.0\Frog-Game.pdb
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.csproj.AssemblyReference.cache
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.AssemblyInfoInputs.cache
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.AssemblyInfo.cs
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.csproj.CoreCompileInputs.cache
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.dll
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\ref\Frog-Game.dll
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.pdb
+C:\Users\enes_\OneDrive\Masaüstü\Frog-Game\obj\Debug\net5.0\Frog-Game.genruntimeconfig.cache
